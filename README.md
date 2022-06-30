@@ -1,4 +1,4 @@
-# Hand drawn digit guesser
+# Interactive digit guesser
 Deep learning project which includes modelling, training and testing ANN (Artificial Neural Network), CNN (Convolutional Neural Network) over MNIST dataset, and then prediction of the digit drawn on canvas
 
 Link to the dataset: [MNIST](https://www.kaggle.com/competitions/digit-recognizer/data)
